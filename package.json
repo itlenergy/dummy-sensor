@@ -1,0 +1,11 @@
+{
+  "name": "itlenergy-dummy-sensor",
+  "version": "0.1.0",
+  "dependencies": {
+    "babel": "^4.7.16",
+    "bluebird": "^2.9.14",
+    "commander": "^2.7.1",
+    "moment": "^2.9.0",
+    "request": "^2.53.0"
+  }
+}
